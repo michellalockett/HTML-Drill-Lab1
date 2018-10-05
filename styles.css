@@ -1,0 +1,103 @@
+.background-color   {
+    background-color: lightgray;
+}
+
+.h1Text {
+    color: darkmagenta;
+}
+
+.h1Text2 {
+    color: palevioletred;
+}
+
+.fave5  {
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+#rank1  {
+    color: blue;
+}
+
+#rank2  {
+    color: purple;
+}
+
+#rank3  {
+    color: red;
+}
+
+#rank4  {
+    color: maroon;
+}
+
+#rank5  {
+    color: orchid;
+}
+
+.text-center {
+    text-align: center;
+}
+
+a   {
+    text-decoration: none;
+    color: rgb(235, 211, 237);
+}
+.readme-wrapper {
+    text-align: center;
+
+}
+
+.boxes  {
+    display: inline-block;
+    margin: 12px;
+    padding: 6px;
+    border: solid;
+    border-radius: 12px;
+    width: 20%;
+}
+#box1   {
+    background-color:  rgba(134, 36, 1, 0.927);
+}
+
+#box2   {
+    background-color: rgba(219, 94, 2, 0.961);
+    position: relative;
+}
+
+#box3   {
+    background-color: rgba(245, 146, 1, 0.934);
+}
+
+#box4   {
+    background-color: rgba(255, 193, 58, 0.934);
+}
+
+.leftImage1 {
+  
+}
+
+.leftImage2 {
+    
+}
+
+.leftImage3 {
+  
+}
+
+.leftImage4 {
+    
+}
+
+    @media (hover: hover) {
+        a:hover {
+            cursor: pointer;
+            font-weight: bolder;
+            color: olive;
+        }
+      }
+.someText   {
+    color: olive;
+    font-weight: bolder;
+}
